@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504983141105",
+    "firebase_url": "https://travelmantics-19f07.firebaseio.com",
+    "project_id": "travelmantics-19f07",
+    "storage_bucket": "travelmantics-19f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504983141105:android:15b84a5604ae92c6",
+        "android_client_info": {
+          "package_name": "com.example.tavelmetrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504983141105-4erg7u4hvl0tr0meghknghgl6bpd3nj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tavelmetrics",
+            "certificate_hash": "8ff67b86a474c29ff8e3470d47abd0fb1b710af4"
+          }
+        },
+        {
+          "client_id": "504983141105-g67n3pfq3rs0kn6flpp8tegrq131prks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq7F6ur-261C4Ea6DOVviv0rqCPXlz0AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504983141105-g67n3pfq3rs0kn6flpp8tegrq131prks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
